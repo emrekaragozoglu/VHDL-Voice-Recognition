@@ -1,0 +1,20 @@
+NET "clkin" LOC = "B8";
+NET "starttalk" LOC = "N3";
+NET "sdata" LOC = "A13";
+NET "cs" LOC = "C12";
+NET "sclk" LOC = "C13";
+NET "FFTDV" LOC = "B9";
+
+#NET "DATAOUT" LOC = "B9";
+#NET "clk200khzOUT" LOC = "A10";
+
+NET "fft_out<0>" LOC = "B7";
+NET "fft_out<1>" LOC = "C5";
+NET "fft_out<2>" LOC = "B6";
+NET "fft_out<3>" LOC = "C6";
+NET "fft_out<4>" LOC = "B5";
+NET "fft_out<5>" LOC = "J3";
+NET "fft_out<6>" LOC = "A3";
+NET "fft_out<7>" LOC = "B2";
+
+NET "led" LOC = "M5";
